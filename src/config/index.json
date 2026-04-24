@@ -1,122 +1,122 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Página de destino em React 2021",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Produto",
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Recursos",
       "href": "features"
     },
 
     {
-      "name": "Pricing",
+      "name": "Preços",
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Sobre",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
+    "text": "Começar",
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Tarefa 07",
+    "subtitle": "Template web em React",
+    "description": "É um fato estabelecido há muito tempo que um leitor será distraído pelo conteúdo legível de uma página ao observar seu layout. O ponto de usar Lorem Ipsum é que ele tem uma distribuição mais ou menos normal de letras, em vez de usar 'Conteúdo aqui, conteúdo aqui', fazendo parecer um português legível.",
     "img": "/assets/images/happyTeam.jpeg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Começar",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Envie-nos um e-mail",
+      "href": "mailto:exemplo@gmail.com?subject=Eu gosto da página de destino em React!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Página em React",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Um template plug and play",
+        "description": "Apenas edite o arquivo config.json com os detalhes da sua empresa e sua linda e moderna página de destino estará pronta para entrar em ação! Lembre-se de atualizar seus ativos, adicione as imagens que deseja mostrar em /assets/images e vincule-as no config.json",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Personalize!",
+        "description": "Brinque com o arquivo theme.ts e configure a paleta de cores para combinar com a marca da sua empresa! Se estiver se sentindo ousado, talvez mude um pouco do css do tailwind também!",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "O mais recente e melhor",
+    "subtitle": "Todas as melhores tecnologias por aí!",
+    "description": "É um fato estabelecido há muito tempo que um leitor será distraído pelo conteúdo legível de uma página ao observar seu layout. O ponto de usar Lorem Ipsum é que ele tem uma distribuição mais ou menos normal de letras, em vez de usar 'Conteúdo aqui, conteúdo aqui', fazendo parecer um inglês legível.",
     "items": [
       {
         "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "description": "React é uma biblioteca JavaScript front-end gratuita e de código aberto para construir interfaces de usuário ou componentes de UI.",
         "icon": "/assets/images/react.png"
       },
       {
         "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "description": "Tailwind CSS é um framework CSS altamente personalizável de baixo nível para criar rapidamente designs bonitos sem nenhuma folha de estilo opinionada irritante.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
         "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "description": "Next.js é um framework para aplicações React renderizadas no servidor usando Next.js.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "name": "TypeScript",
+        "description": "TypeScript é uma linguagem de programação desenvolvida e mantida pela Microsoft.",
         "icon": "/assets/images/ts.png"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Preços",
     "items": [
       {
-        "name": "Free",
+        "name": "Gratuito",
         "price": "$0",
-        "priceDetails": "for one user",
+        "priceDetails": "para um usuário",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "1 usuário",
+          "Suporte básico",
+          "1 GB de armazenamento",
+          "Suporte por e-mail"
         ]
       },
       {
         "name": "Pro",
         "price": "$15",
-        "priceDetails": "per user",
+        "priceDetails": "por usuário",
 
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "5 usuários",
+          "Suporte prioritário",
+          "10 GB de armazenamento",
+          "Suporte por telefone e e-mail"
         ]
       },
       {
-        "name": "Enterprise",
+        "name": "Empresa",
         "price": "$29",
-        "priceDetails": "per user",
+        "priceDetails": "por usuário",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "50 usuários",
+          "Suporte 24/7",
+          "100 GB de armazenamento",
+          "Suporte por telefone e e-mail"
         ]
       }
     ]
@@ -124,24 +124,24 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "Algo",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "É um fato estabelecido há muito tempo que um leitor será distraído pelo conteúdo legível de uma página ao observar seu layout. O ponto de usar Lorem Ipsum é que ele tem uma distribuição mais ou menos normal de letras, em vez de usar 'Conteúdo aqui, conteúdo aqui', fazendo parecer um inglês legível."
       },
       {
-        "name": "Something",
+        "name": "Algo",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "É um fato estabelecido há muito tempo que um leitor será distraído pelo conteúdo legível de uma página ao observar seu layout. O ponto de usar Lorem Ipsum é que ele tem uma distribuição mais ou menos normal de letras, em vez de usar 'Conteúdo aqui, conteúdo aqui', fazendo parecer um inglês legível."
       },
       {
-        "name": "Something",
+        "name": "Algo",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "É um fato estabelecido há muito tempo que um leitor será distraído pelo conteúdo legível de uma página ao observar seu layout. O ponto de usar Lorem Ipsum é que ele tem uma distribuição mais ou menos normal de letras, em vez de usar 'Conteúdo aqui, conteúdo aqui', fazendo parecer um inglês legível."
       },
       {
-        "name": "Something",
+        "name": "Algo",
         "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "content": "É um fato estabelecido há muito tempo que um leitor será distraído pelo conteúdo legível de uma página ao observar seu layout. O ponto de usar Lorem Ipsum é que ele tem uma distribuição mais ou menos normal de letras, em vez de usar 'Conteúdo aqui, conteúdo aqui', fazendo parecer um inglês legível."
       }
     ],
     "socialMedia": {
